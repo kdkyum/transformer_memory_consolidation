@@ -1,0 +1,9 @@
+networkx==2.8
+wandb
+torch==1.12
+torchaudio==0.12
+torchvision==0.13
+tqdm==4.64
+transformers==4.20
+numpy==1.22
+matplotlib==3.5
